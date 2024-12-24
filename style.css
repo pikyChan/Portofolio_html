@@ -681,6 +681,7 @@ section.active{
     display: grid;
     grid-template-columns: 1fr 1.3fr;
     gap: 3rem;
+    margin-top: 2.3rem;
 }
 
 .contact-container .contact-box:first-child{
@@ -858,7 +859,7 @@ section.active{
     }
 } 
 
-@media screen and (max-width:400px) {
+@media screen and (max-width:450px) {
     .home-detail,
     .resume-box h2,
     .resume-box .heading,
